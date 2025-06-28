@@ -1,0 +1,74 @@
+[
+    {
+        "type": "physical",
+        "product_id": "P001",
+        "name": "Bluetooth Speaker",
+        "price": 1499.0,
+        "quantity_available": 20,
+        "weight": 0.9
+    },
+    {
+        "type": "physical",
+        "product_id": "P002",
+        "name": "USB-C Charger 65W",
+        "price": 1099.0,
+        "quantity_available": 15,
+        "weight": 0.25
+    },
+    {
+        "type": "physical",
+        "product_id": "P003",
+        "name": "Noise Cancelling Headphones",
+        "price": 3999.0,
+        "quantity_available": 8,
+        "weight": 0.5
+    },
+    {
+        "type": "physical",
+        "product_id": "P004",
+        "name": "Portable SSD 1TB",
+        "price": 5299.0,
+        "quantity_available": 12,
+        "weight": 0.2
+    },
+    {
+        "type": "digital",
+        "product_id": "D001",
+        "name": "Python Mastery E-Book",
+        "price": 299.0,
+        "quantity_available": 100,
+        "download_link": "https://example.com/python-ebook"
+    },
+    {
+        "type": "digital",
+        "product_id": "D002",
+        "name": "Photo Editing Software License",
+        "price": 999.0,
+        "quantity_available": 80,
+        "download_link": "https://example.com/photo-edit"
+    },
+    {
+        "type": "digital",
+        "product_id": "D003",
+        "name": "Music Production Toolkit",
+        "price": 749.0,
+        "quantity_available": 60,
+        "download_link": "https://example.com/music-toolkit"
+    },
+    {
+        "type": "digital",
+        "product_id": "D004",
+        "name": "Premium Wallpaper Pack",
+        "price": 149.0,
+        "quantity_available": 200,
+        "download_link": "https://example.com/wallpapers"
+    },
+    {
+        "type": "physical",
+        "product_id": "D555",
+        "name": "1",
+        "price": 255.0,
+        "quantity_available": 3,
+        "weight": 0.15
+    }
+]
